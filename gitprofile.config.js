@@ -44,6 +44,12 @@ const config = {
       to: 'October 2020',
       companyLink: 'https://www.linkedin.com/company/bruhat-logistics/about/',
     },
+     {
+      company: 'Paati Agro Hub – Pudukkottai',
+      position: 'Business Development Executive',
+      from: 'August 2015',
+      to: 'March 2017',
+    },
   ],
   /* certifications: [
     {
@@ -115,16 +121,12 @@ const config = {
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
-      'light',
       'dark',
       'cupcake',
-      'bumblebee',
       'emerald',
       'corporate',
       'synthwave',
       'retro',
-      'cyberpunk',
-      'valentine',
       'halloween',
       'garden',
       'forest',
