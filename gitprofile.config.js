@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'bhuvanesh--data-scientist',,
+    linkedin: 'bhuvanesh--data-scientist',
     phone: '+91 9900425184',
     email: 'bhuvaneshwargomathi@gmail.com',
   },
