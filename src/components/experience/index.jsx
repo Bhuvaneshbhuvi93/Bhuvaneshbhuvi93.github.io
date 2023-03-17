@@ -66,8 +66,8 @@ const Experience = ({ experiences, loading }) => {
                     {experiences.map((experience, index) => (
                       <ListItem
                         key={index}
-                        position={experience.position}
                         company={experience.company}
+                        position={experience.position}
                         time={`${experience.from} - ${experience.to}`}
                         companyLink={
                           experience.companyLink ? experience.companyLink : null
