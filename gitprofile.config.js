@@ -31,18 +31,18 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'WIPRO – Chennai',
+      position: 'Senior Officer',
+      from: 'February 2021',
+      to: 'November 2022',
+      companyLink: 'https://www.linkedin.com/showcase/wipro-digital-operations-and-platforms/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Bruhat Logistics Pvt Ltd – Chennai',
+      position: 'Procurement Specialist',
+      from: ' December 2018',
+      to: 'October 2020',
+      companyLink: 'https://www.linkedin.com/company/bruhat-logistics/about/',
     },
   ],
   /* certifications: [
