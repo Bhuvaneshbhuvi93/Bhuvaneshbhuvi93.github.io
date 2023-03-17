@@ -114,7 +114,7 @@ const Details = ({ profile, loading, social, github }) => {
                 />
               )}
               <ListItem
-                icon={<AiFillGithub />}
+                icon={<FontAwesomeIcon icon="fa-brands fa-square-github" />}
                 title="GitHub:"
                 value={github.username}
                 link={`https://github.com/${github.username}`}
