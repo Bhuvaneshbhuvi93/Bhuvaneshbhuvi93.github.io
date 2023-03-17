@@ -22,6 +22,8 @@ import {
 } from 'react-icons/fa';
 import PropTypes from 'prop-types';
 import { skeleton } from '../../helpers/utils';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faGithub } from '@fortawesome/free-brands-svg-icons';
 
 const isCompanyMention = (company) => {
   return company.startsWith('@') && !company.includes(' ');
@@ -135,7 +137,7 @@ const Details = ({ profile, loading, social, github }) => {
               )}
               {social?.linkedin && (
                 <ListItem
-                  icon={<FaLinkedin />}
+                  icon={<FontAwesomeIcon icon={faGithub} />}
                   title="LinkedIn:"
                   value={social.linkedin}
                   link={`https://www.linkedin.com/in/${social.linkedin}`}
