@@ -112,7 +112,7 @@ const Details = ({ profile, loading, social, github }) => {
                 />
               )}
               <ListItem
-                icon={<FontAwesomeIcon icon="fa-brands fa-square-github" />}
+                icon={<AiFillGithub />}
                 title="GitHub:"
                 value={github.username}
                 link={`https://github.com/${github.username}`}
@@ -135,7 +135,7 @@ const Details = ({ profile, loading, social, github }) => {
               )}
               {social?.linkedin && (
                 <ListItem
-                  icon={<FontAwesomeIcon icon={faGithub} />}
+                  icon={<FaLinkedin />}
                   title="LinkedIn:"
                   value={social.linkedin}
                   link={`https://www.linkedin.com/in/${social.linkedin}`}
