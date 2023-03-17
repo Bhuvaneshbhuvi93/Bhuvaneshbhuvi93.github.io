@@ -13,7 +13,6 @@ const ListItem = ({ company, position, time, companyLink }) => (
     </a>
     <div className="font-semibold">{position}</div>
     <div className="my-0.5 text-xs">{time}</div>
-    </div>
   </li>
 );
 
