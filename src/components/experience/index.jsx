@@ -8,10 +8,9 @@ const ListItem = ({ company, position, time, companyLink }) => (
       className="absolute w-2 h-2 bg-base-300 rounded-full border border-base-300 mt-1.5"
       style={{ left: '-4.5px' }}
     ></div>
-    <h3 className="mb-4 font-normal">
-      <a href={companyLink} target="_blank" rel="noreferrer">
-        {company}
-      </h3>
+    <a href={companyLink} target="_blank" rel="noreferrer">
+    <h3 className="mb-4 font-normal">{company}</h3>
+    </a>
     <div className="font-semibold">{position}</div>
     <div className="my-0.5 text-xs">{time}</div>
     </div>
