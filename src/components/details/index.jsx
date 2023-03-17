@@ -22,9 +22,6 @@ import {
 } from 'react-icons/fa';
 import PropTypes from 'prop-types';
 import { skeleton } from '../../helpers/utils';
-import { fas } from '@fortawesome/free-solid-svg-icons'
-import { far } from '@fortawesome/free-regular-svg-icons'
-import { fab } from '@fortawesome/free-brands-svg-icons'
 
 const isCompanyMention = (company) => {
   return company.startsWith('@') && !company.includes(' ');
