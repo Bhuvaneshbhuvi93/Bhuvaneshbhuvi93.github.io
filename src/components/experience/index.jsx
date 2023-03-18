@@ -9,9 +9,9 @@ const ListItem = ({ company, position, time, companyLink }) => (
       style={{ left: '-4.5px' }}
     ></div>
     <a href={companyLink} target="_blank" rel="noreferrer">
-    <h3 className="mb-4 font-normal">{company}</h3>
+    <h3 className="mb-4 font-semibold">{company}</h3>
     </a>
-    <div className="font-semibold">{position}</div>
+    <div className="font-normal">{position}</div>
     <div className="my-0.5 text-xs">{time}</div>
   </li>
 );
