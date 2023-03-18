@@ -94,7 +94,7 @@ const config = {
       title: 'Twitter Scrapping',
       description:
         "This project allows you to collect tweets for a specific keyword or hashtag, within a given date range and a limit of tweets to be scraped. The project is built using Python and the popular libraries 'streamlit', 'pandas', and 'pymongo'.",
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: 'https://via.placeholder.com/500x500',
       link: 'https://example.com',
     },
     {
