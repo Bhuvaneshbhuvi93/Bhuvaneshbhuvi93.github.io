@@ -115,7 +115,7 @@ const config = {
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'medium', // medium | dev
-    username: 'bhuvaneshwargomathi', // to hide blog section, keep it empty
+    username: '@bhuvaneshwargomathi', // to hide blog section, keep it empty
     limit: 4, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
@@ -174,7 +174,7 @@ const config = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+      class="text-primary" href="https://github.com/Bhuvaneshbhuvi93"
       target="_blank"
       rel="noreferrer"
     >GitProfile</a> and ❤️`,
