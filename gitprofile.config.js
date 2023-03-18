@@ -155,13 +155,13 @@ const config = {
 
     // Custom theme
     customTheme: {
-      primary: 'linear-gradient(to bottom right, #4a8cbb, #8f6aa5)',
-      secondary: 'linear-gradient(to bottom right, #89b9ce, #ee9ca7)',
-      accent: '#e8d03a',
-      neutral: '#2A2730',
-      'base-100': '#E3E3ED',
-      '--rounded-box': '3rem',
-      '--rounded-btn': '3rem',
+      primary: '#0077B6',
+      secondary: '#FFC764',
+      accent: '#F94144',
+      neutral: '#F5F5F5',
+      'base-100': '#FFFFFF',
+      '--rounded-box': '1rem',
+      '--rounded-btn': '1rem',
 //       primary: '#fc055b',
 //       secondary: '#219aaf',
 //       accent: '#e8d03a',
