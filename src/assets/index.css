@@ -77,23 +77,19 @@ svg {
   padding-bottom: 0 !important;
 }
 
-.scale-in {
+.fade-in {
   opacity: 0;
-  transform: scale(0.8);
-  animation-name: scale-in;
-  animation-duration: 0.5s;
-  animation-delay: 0.2s;
+  animation-name: fade-in;
+  animation-duration: 1s;
   animation-fill-mode: forwards;
 }
 
-@keyframes scale-in {
+@keyframes fade-in {
   from {
     opacity: 0;
-    transform: scale(0.8);
   }
   to {
     opacity: 1;
-    transform: scale(1);
   }
 }
 
