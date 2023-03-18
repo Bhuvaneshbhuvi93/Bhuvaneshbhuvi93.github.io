@@ -114,7 +114,7 @@ const config = {
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
+    source: 'medium', // medium | dev
     username: 'bhuvaneshwargomathi', // to hide blog section, keep it empty
     limit: 4, // How many posts to display. Max is 10.
   },
@@ -127,7 +127,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'cupcake',
+    defaultTheme: 'garden',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
