@@ -28,7 +28,7 @@
 
 body {
   margin: 0;
-  font-family: "Lato", sans-serif;
+  font-family: "Times New Roman", serif;
   font-weight: 400;
   font-size: 16px;
   letter-spacing: 0.025rem;
@@ -78,21 +78,31 @@ svg {
 }
 
 .fade-in {
-  opacity: 1;
-  animation-name: fadeIn;
-  animation-iteration-count: 1;
-  animation-timing-function: ease-in;
+  animation-name: slideIn;
   animation-duration: 1s;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: 1;
 }
 
-@keyframes fadeIn {
+@keyframes slideIn {
+  0% {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+/* @keyframes fadeIn {
   0% {
     opacity: 0;
   }
   100% {
     opacity: 1;
   }
-}
+} */
 
 @-webkit-keyframes fadeIn {
   from {
