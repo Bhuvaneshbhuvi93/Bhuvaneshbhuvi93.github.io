@@ -115,8 +115,8 @@ const config = {
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
-    limit: 2, // How many posts to display. Max is 10.
+    username: 'bhuvaneshwargomathi', // to hide blog section, keep it empty
+    limit: 4, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
@@ -127,7 +127,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'winter',
+    defaultTheme: 'cupcake',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
@@ -144,41 +144,31 @@ const config = {
     themes: [
       'dark',
       'cupcake',
-      'emerald',
       'corporate',
-      'synthwave',
       'retro',
-      'halloween',
       'garden',
       'forest',
       'aqua',
       'lofi',
       'pastel',
-      'fantasy',
-      'wireframe',
-      'black',
-      'luxury',
-      'dracula',
-      'cmyk',
-      'autumn',
-      'business',
-      'acid',
-      'lemonade',
-      'night',
-      'coffee',
-      'winter',
-      'procyon',
     ],
 
     // Custom theme
     customTheme: {
-      primary: '#fc055b',
-      secondary: '#219aaf',
+      primary: 'linear-gradient(to bottom right, #4a8cbb, #8f6aa5)',
+      secondary: 'linear-gradient(to bottom right, #89b9ce, #ee9ca7)',
       accent: '#e8d03a',
       neutral: '#2A2730',
       'base-100': '#E3E3ED',
       '--rounded-box': '3rem',
       '--rounded-btn': '3rem',
+//       primary: '#fc055b',
+//       secondary: '#219aaf',
+//       accent: '#e8d03a',
+//       neutral: '#2A2730',
+//       'base-100': '#E3E3ED',
+//       '--rounded-box': '3rem',
+//       '--rounded-btn': '3rem',
     },
   },
 
