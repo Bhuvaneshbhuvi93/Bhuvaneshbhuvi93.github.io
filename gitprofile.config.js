@@ -61,35 +61,56 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
+      institution: 'Indian Institute of Technology, Madras',
+      degree: "GUVI's IITM Certified Programming Professional & Master Data Science Program",
+      from: 'November 2022',
+      to: 'March 2023',
+    },
+    {
+      institution: "St. Joseph's College Of Engineering",
+      degree: 'MBA - Operations and Marketing',
+      from: '2017',
       to: '2019',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: "RMK ENGINEERING COLLEGE, CHENNAI",
+      degree: 'BE - Electronics and Instrumentation',
+      from: '2011',
+      to: '2015',
     },
   ],
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'PhonePe Pulse Data Visualization',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'This project included interative visualization of PhonePe pulse data in the streamlit GUI. Technologies used are Github Cloning, Python, Pandas, MySQL, mysql-connector-python, Streamlit, and Plotly.',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
     {
-      title: 'Project Name',
+      title: 'Twitter Scrapping',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        "This project allows you to collect tweets for a specific keyword or hashtag, within a given date range and a limit of tweets to be scraped. The project is built using Python and the popular libraries 'streamlit', 'pandas', and 'pymongo'.",
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
+    {
+      title: 'Calorie Counting Using LInear Regression',
+      description:
+        "For this project, I have worked on developing a machine learning model that predicts the number of calories burned by a person based on their steps taken, active minutes, and distance travelled. The model has been trained on real-life fitness data, giving us impressive results in terms of accuracy. This project has been a great learning experience.",
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://example.com',
+    },
+    {
+      title: 'Extracting Business Card Data with OCR',
+      description:
+        "This project allows you to collect informaion from any image or document uploded into the tool the tool was build using the technologies OCR,streamlit GUI, SQL,Data Extraction",
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://example.com',
+    },
+    
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
