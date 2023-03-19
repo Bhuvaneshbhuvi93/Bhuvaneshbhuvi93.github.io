@@ -94,7 +94,7 @@ const config = {
       title: 'Twitter Scrapping',
       description:
         "This project allows you to collect tweets for a specific keyword or hashtag, within a given date range and a limit of tweets to be scraped. The project is built using Python and the popular libraries 'streamlit', 'pandas', and 'pymongo'.",
-      imageUrl:'F:\Simple_projects\Data Analysis Projects\Social-Media-Sentiment-Analysis.jpg',
+      imageUrl:'https://drive.google.com/file/d/185ahu03hKBrLpjFnBQtXJ-S1QfnP1AZA/view?usp=share_link',
       link:'https://bhuvaneshwar93realtimesentimentprediction.streamlit.app/',
     },
     {
