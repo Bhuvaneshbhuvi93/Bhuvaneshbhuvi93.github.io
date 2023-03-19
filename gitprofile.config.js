@@ -95,7 +95,7 @@ const config = {
       description:
         "This project allows you to collect tweets for a specific keyword or hashtag, within a given date range and a limit of tweets to be scraped. The project is built using Python and the popular libraries 'streamlit', 'pandas', and 'pymongo'.",
       imageUrl: 'https://drive.google.com/file/d/1mQ-X8uCgctmQQwgKUqdIoSV9vyeDb9_Z/view?usp=share_link',
-      link: 'https://example.com',
+      link: 'https://bhuvaneshwar93realtimesentimentprediction.streamlit.app/',
     },
     {
       title: 'Calorie Counting Using LInear Regression',
