@@ -36,8 +36,8 @@ const ExternalProject = ({ externalProjects, loading, googleAnalytics }) => {
                     <div className="avatar w-full h-full">
                       <div className="w-20 h-20 mask mask-squircle mx-auto">
                         {skeleton({
-                          width: 'w-full',
-                          height: 'h-full',
+                          width: 'w-20',
+                          height: 'h-20',
                           shape: '',
                         })}
                       </div>
