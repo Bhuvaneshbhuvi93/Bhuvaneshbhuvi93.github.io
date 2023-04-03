@@ -87,6 +87,7 @@ const config = {
       title: 'PhonePe Pulse Data Visualization',
       description:
         'This project includes interative visualization of PhonePe pulse data in the streamlit GUI. Technologies used are Github Cloning, Python, Pandas, MySQL, mysql-connector-python, Streamlit, and Plotly.',
+      imageUrl: 'https://github.com/Bhuvaneshbhuvi93/Bhuvaneshbhuvi93.github.io/blob/main/images/twitter.png',
     },
     {
       title: 'Twitter Scrapping',
