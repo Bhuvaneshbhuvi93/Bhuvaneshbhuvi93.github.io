@@ -13,7 +13,7 @@ const config = {
   social: {
     email: 'bhuvaneshwargomathi@gmail.com',
     phone: '+91 9900425184',
-    linkedin: 'bhuvanesh--data-scientist',
+    linkedin: 'bhuvaneshwar--data-scientist',
     medium: '@bhuvaneshwargomathi',
   },
   resume: {
