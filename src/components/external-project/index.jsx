@@ -112,6 +112,7 @@ const ExternalProject = ({ externalProjects, loading, googleAnalytics }) => {
                             height: 'h-12.5',
                             shape: '',
                           })}
+                          style={{ maxWidth: '50%', maxHeight: '50%' }}
                         />
                       </div>
                     </div>
