@@ -33,11 +33,11 @@ const ExternalProject = ({ externalProjects, loading, googleAnalytics }) => {
                         className: 'mb-2 mx-auto',
                       })}
                     </h2>
-                    <div className="avatar w-full h-full">
-                      <div className="w-20 h-20 mask mask-squircle mx-auto">
+                    <div className="avatar opacity-90">
+                      <div className="w-12.5 h-12.5 mask mask-squircle">
                         {skeleton({
-                          width: 'w-20',
-                          height: 'h-20',
+                          width: 'w-12.5',
+                          height: 'h-12.5',
                           shape: '',
                         })}
                       </div>
