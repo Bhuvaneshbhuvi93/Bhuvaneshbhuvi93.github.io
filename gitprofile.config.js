@@ -110,7 +110,7 @@ const config = {
       title: 'Real Time Sentiment Analysis',
       description:
         "This project allows you to determine the customers satisfaction towards our product. Using NLKT I created a tool which would ask user the rating and the review of the product and will determine the satisfaction level of the customer.",
-
+      imageUrl:'https://raw.githubusercontent.com/Bhuvaneshbhuvi93/Bhuvaneshbhuvi93.github.io/main/images/twitter.png'
     },
     {
       title: 'Tweet Sentiment Analysis',
