@@ -103,13 +103,13 @@ const ExternalProject = ({ externalProjects, loading, googleAnalytics }) => {
                   </h2>
                   {item.imageUrl && (
                     <div className="avatar opacity-90">
-                      <div className="w-25 h-25 mask mask-squircle">
+                      <div className="w-12.5 h-12.5 mask mask-squircle">
                         <LazyImage
                           src={item.imageUrl}
                           alt={'thumbnail'}
                           placeholder={skeleton({
-                            width: 'w-25',
-                            height: 'h-25',
+                            width: 'w-12.5',
+                            height: 'h-12.5',
                             shape: '',
                           })}
                         />
