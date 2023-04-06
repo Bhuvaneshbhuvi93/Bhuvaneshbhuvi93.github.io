@@ -87,31 +87,31 @@ const config = {
       title: 'PhonePe Pulse Data Visualization',
       description:
         'This project includes interative visualization of PhonePe pulse data in the streamlit GUI. Technologies used are Github Cloning, Python, Pandas, MySQL, mysql-connector-python, Streamlit, and Plotly.',
-      imageUrl:'https://raw.githubusercontent.com/Bhuvaneshbhuvi93/Bhuvaneshbhuvi93.github.io/blob/main/images/pay.png'
+      imageUrl:'https://raw.githubusercontent.com/Bhuvaneshbhuvi93/Bhuvaneshbhuvi93.github.io/main/images/pay.png'
     },
     {
       title: 'Twitter Scrapping',
       description:
         "This project allows you to collect tweets for a specific keyword or hashtag, within a given date range and a limit of tweets to be scraped. The project is built using Python and the popular libraries 'streamlit', 'pandas', and 'pymongo'.",
-      imageUrl:'https://raw.githubusercontent.com/Bhuvaneshbhuvi93/Bhuvaneshbhuvi93.github.io/blob/main/images/twitter-scrapping.png'
+      imageUrl:'https://raw.githubusercontent.com/Bhuvaneshbhuvi93/Bhuvaneshbhuvi93.github.io/main/images/twitter-scrapping.png'
     },
     {
       title: 'Calorie Counting Using Smartwatch Data',
       description:
         "For this project, I have worked on developing a machine learning model that predicts the number of calories burned by a person based on their steps taken, active minutes, and distance travelled. The model has been trained on real-life fitness data, giving us impressive results in terms of accuracy. This project has been a great learning experience.",
-      imageUrl:'https://raw.githubusercontent.com/Bhuvaneshbhuvi93/Bhuvaneshbhuvi93.github.io/blob/main/images/calories.png'
+      imageUrl:'https://raw.githubusercontent.com/Bhuvaneshbhuvi93/Bhuvaneshbhuvi93.github.io/main/images/calories.png'
     },
     {
       title: 'Extracting Business Card Data with OCR',
       description:
         "This project allows you to collect informaion from any image or document uploded into the tool the tool was build using the technologies OCR,streamlit GUI, SQL,Data Extraction",
-      imageUrl:'https://raw.githubusercontent.com/Bhuvaneshbhuvi93/Bhuvaneshbhuvi93.github.io/blob/main/images/ocr.png'
+      imageUrl:'https://raw.githubusercontent.com/Bhuvaneshbhuvi93/Bhuvaneshbhuvi93.github.io/main/images/ocr.png'
     },
     {
       title: 'Real Time Sentiment Analysis',
       description:
         "This project allows you to determine the customers satisfaction towards our product. Using NLKT I created a tool which would ask user the rating and the review of the product and will determine the satisfaction level of the customer.",
-      imageUrl:'https://raw.githubusercontent.com/Bhuvaneshbhuvi93/Bhuvaneshbhuvi93.github.io/blob/main/images/sentiment-analysis.png'
+      imageUrl:'https://raw.githubusercontent.com/Bhuvaneshbhuvi93/Bhuvaneshbhuvi93.github.io/main/images/sentiment-analysis.png'
     },
     {
       title: 'Tweet Sentiment Analysis',
