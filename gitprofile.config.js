@@ -93,7 +93,7 @@ const config = {
       title: 'Twitter Scrapping',
       description:
         "This project allows you to collect tweets for a specific keyword or hashtag, within a given date range and a limit of tweets to be scraped. The project is built using Python and the popular libraries 'streamlit', 'pandas', and 'pymongo'.",
-      imageUrl:'https://raw.githubusercontent.com/Bhuvaneshbhuvi93/Bhuvaneshbhuvi93.github.io/main/images/twitter-scrapping.png'
+      imageUrl:'https://raw.githubusercontent.com/Bhuvaneshbhuvi93/Bhuvaneshbhuvi93.github.io/main/images/social.png'
     },
     {
       title: 'Calorie Counting Using Smartwatch Data',
