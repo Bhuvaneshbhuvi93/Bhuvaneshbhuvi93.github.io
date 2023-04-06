@@ -33,11 +33,11 @@ const ExternalProject = ({ externalProjects, loading, googleAnalytics }) => {
                         className: 'mb-2 mx-auto',
                       })}
                     </h2>
-                    <div className="avatar opacity-90">
-                      <div className="w-12.5 h-12.5 mask mask-squircle">
+                    <div className="avatar w-full h-full">
+                      <div className="w-20 h-20 mask mask-squircle mx-auto">
                         {skeleton({
-                          width: 'w-12.5',
-                          height: 'h-12.5',
+                          width: 'w-full',
+                          height: 'h-full',
                           shape: '',
                         })}
                       </div>
@@ -103,16 +103,15 @@ const ExternalProject = ({ externalProjects, loading, googleAnalytics }) => {
                   </h2>
                   {item.imageUrl && (
                     <div className="avatar opacity-90">
-                      <div className="w-12.5 h-12.5 mask mask-squircle">
+                      <div className="w-20 h-20 mask mask-squircle">
                         <LazyImage
                           src={item.imageUrl}
                           alt={'thumbnail'}
                           placeholder={skeleton({
-                            width: 'w-12.5',
-                            height: 'h-12.5',
+                            width: 'w-full',
+                            height: 'h-full',
                             shape: '',
                           })}
-                          style={{ maxWidth: '50%', maxHeight: '50%' }}
                         />
                       </div>
                     </div>
