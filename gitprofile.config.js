@@ -88,7 +88,6 @@ const config = {
       description:
         'This project includes interative visualization of PhonePe pulse data in the streamlit GUI. Technologies used are Github Cloning, Python, Pandas, MySQL, mysql-connector-python, Streamlit, and Plotly.',
       imageUrl:'https://raw.githubusercontent.com/Bhuvaneshbhuvi93/Bhuvaneshbhuvi93.github.io/main/images/pay.png',
-      link:
     },
     {
       title: 'Twitter Scrapping',
@@ -108,7 +107,6 @@ const config = {
       description:
         "This project allows you to collect informaion from any image or document uploded into the tool the tool was build using the technologies OCR,streamlit GUI, SQL,Data Extraction",
       imageUrl:'https://raw.githubusercontent.com/Bhuvaneshbhuvi93/Bhuvaneshbhuvi93.github.io/main/images/ocr.png',
-      link:
     },
     {
       title: 'Real Time Sentiment Analysis',
