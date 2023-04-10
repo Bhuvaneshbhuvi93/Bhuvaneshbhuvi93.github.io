@@ -191,7 +191,7 @@ const config = {
       class="text-primary" href="https://github.com/Bhuvaneshbhuvi93"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a>,
+    >GitProfile</a>and ❤️`,
 };
 
 export default config;
